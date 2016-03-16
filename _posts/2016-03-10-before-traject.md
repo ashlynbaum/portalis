@@ -1,5 +1,5 @@
 ---
-title:  "Who were we before Traject"
+title:  "Before Traject"
 date:   2016-03-10 15:04:23
 categories: [about]
 tags: [team]
