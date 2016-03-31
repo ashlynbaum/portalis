@@ -47,7 +47,8 @@ pre.highlight code,
 }
 
 .user-image {
-  margin-bottom: 1.2em;
+  margin-bottom: 3em;
+  margin-top: 2em;
   position: relative;
-  width: 110px;
+  width: 73%;
 }
