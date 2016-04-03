@@ -8,13 +8,8 @@
 
     <div class="panel-main__inner panel-inverted">
     <div class="panel-main__content">
-        <a href="/" title="link to home of {{ site.title }}">
-          <img src="/images/rocket_ship_white.svg" class="user-image" alt="My Profile Photo">
-          <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
-        </a>
-        <hr class="panel-cover__divider">
-        <p class="panel-cover__description">{{ site.description }}</p>
-        <hr class="panel-cover__divider panel-cover__divider--secondary">
+
+
 
         <div class="navigation-wrapper">
 
@@ -79,7 +74,7 @@
 
             <!-- RSS -->
             <li class="navigation__item">
-              <a href="{{ "feed.xml" }}" title="Subscribe" target="_blank">
+              <a href="{{ site.url }}{{ "/feed.xml" }}" title="Subscribe" target="_blank">
                 <i class="icon icon-rss"></i>
                 <span class="label">RSS</span>
               </a>
@@ -89,7 +84,13 @@
           </nav>
 
         </div>
-
+        <a href="/" title="link to home of {{ site.title }}">
+          <img src="/images/traject-logo-01-03.svg" class="user-image" alt="My Profile Photo">
+          <!-- <h1 class="panel-cover__title panel-title">{{ site.title }}</h1> -->
+        </a>
+        <!-- <hr class="panel-cover__divider"> -->
+        <!-- <p class="panel-cover__description">{{ site.description }}</p> -->
+        <!-- <hr class="panel-cover__divider panel-cover__divider--secondary"> -->
       </div>
 
     </div>
