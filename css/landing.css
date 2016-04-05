@@ -1,0 +1,88 @@
+body {
+  background: url("../images/people-woman-coffee-meeting.jpg");
+  background-repeat: no-repeat;
+  background-position: 5% center;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: sans-serif;
+  margin: 0;
+  font-family: 'lato', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+
+nav {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  background: linear-gradient(black, transparent);
+}
+.nav {
+  padding: 2em 2em 0 0;
+}
+nav span {
+  color: white;
+}
+
+.tagline {
+    position: relative;
+    top: -50px;
+    left: 135px;
+    font-size: 19px;
+}
+
+.offer, .description, .email {
+  background-color: rgba(255,255,255,0.94);
+  padding: 5%;
+}
+
+section {
+  margin: 0 10%;
+  max-width: 45%;
+}
+
+section.bottom {
+  margin-bottom: 100px;
+}
+
+p.request {
+  margin-top: 0;
+}
+.email input{
+  font-size: 22px;
+}
+
+.email input:not(.button){
+  padding: 10px 5px;
+  width: 47%
+}
+
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.email .button {
+  background-color:#44c767;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-size:22px;
+  text-decoration:none;
+  border: none;
+  padding:11px 25px;
+  margin-top: 1em;
+}
+.email .button:hover {
+  background-color: #4EEA78;
+}
+.email .button:active {
+  position:relative;
+  top:1px;
+}
+
+@media only screen and (max-device-width : 1024px) {
+  section {
+    max-width: 100%;
+  }
+}
