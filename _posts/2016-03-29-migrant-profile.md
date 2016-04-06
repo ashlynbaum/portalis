@@ -1,5 +1,5 @@
 ---
-title:  "Why we are losing talent."
+title:  "Why we are losing talent"
 date:   2016-03-23 15:00:00
 categories: [opportunity]
 tags: [opportunity]
