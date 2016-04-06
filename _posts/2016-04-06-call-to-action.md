@@ -5,7 +5,7 @@ categories: [validation]
 tags: [Business Validation]
 ---
 
-Right now we are looking for highly skilled people in the IT sector who want to immigrate to New Zealand. If this sounds like you: [let us know](www.traject.nz/work-in-new-zealand). We want skilled people without formal qualifications to get involved in Traject's pilot program.
+Right now we are looking for highly skilled people in the IT sector who want to immigrate to New Zealand. If this sounds like you: [let us know](http://www.traject.nz/work-in-new-zealand). We want skilled people without formal qualifications to get involved in Traject's pilot program.
 
 ## What we're doing
 Traject is currently in the process of validating, and iterating on, a skills assessment service to qualify skilled individuals, in the IT sector, for the Skilled Migrant Category (SMC) visa. Currently, if you are trying to move to New Zealand (or you're already here on a non-residency visa), you have a job offer, but no tertiary education or provable 5 year of employment, you will not qualify for an SMC visa. We want to change that; we want to help skilled individuals get a visa and residency as quickly as possible. 
