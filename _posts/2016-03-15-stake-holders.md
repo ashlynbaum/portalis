@@ -5,7 +5,7 @@ categories: [investigation]
 tags: [process]
 ---
 
-We've been out on the streets of Wellington talking up a storm to all of the stake holders relating to the problem: helping companies hire the talent that they need that currently is not available from New Zealand.
+We've been out on the streets of Wellington talking up a storm to all of the stakeholders relating to the problem: helping companies hire the talent that they need that currently is not available from New Zealand.
 
 ## Who are the Stake Holders
 
@@ -41,11 +41,10 @@ We've been out on the streets of Wellington talking up a storm to all of the sta
 
 To truly immerse ourselves in this problem we are talking to as many people as possible. Our goal is to enable everyone to talk to us comfortably and honestly. The best way to do this is with non-leading questions.
 
-We are following Lean start-up methodology. And to do this, we are speaking to all of the stake holders involved in this problem to try to figure out what the real paint points are. We are finding out that different stake holders have different pain points. 
+We are following Lean start-up methodology. And to do this, we are speaking to all of the stakeholders involved in this problem to try to figure out what the real pain points are. We are finding out that different stakeholders have different pain points. 
 
-Our goal is to ask open ended questions, then continue prodding at the 'why?', and then prod a bit deeper. Hopefully this technique will lead to us discovering the underlying emotional drivers behind why stake holders feel the way they do, with relation to this problem.
+Our goal is to ask open-ended questions, then continue prodding at the 'why?', and then prod a bit deeper. Hopefully, this technique will lead to us discovering the underlying emotional drivers behind why stakeholders feel the way they do, with relation to this problem.
 
 The surface solution, or the solution that is first to present itself, might not always be the best solution. Traject's true strength is related to our ability to provide a fresh perspective and approach the problem, dynamically, in a small light-weight fashion. 
-
 
 
